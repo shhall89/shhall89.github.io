@@ -20,6 +20,9 @@ I am a senior at the University of Washington pursuing a degree in Geography wit
 - Have not caught a steelhead :(
 - Have successfully integrated close associates into the ~~sport~~ art
 
+> "He ain't the worst I've ever seen." -
+> [Tom Rosenbauer](https://www.orvis.com/tom-rosenbauer.html)
+
 ## A Nonprofit (Santa Clara, CA)
 
 **Social Media Marketing Specialist and Data Analyst** (June 2021 - present)
@@ -39,3 +42,4 @@ I am a senior at the University of Washington pursuing a degree in Geography wit
 - Participated on the winning team and netted the winning frog (2022)
 
 Gustine Frog Team: https://www.uniondemocrat.com/news/article_683e0c4e-dc61-11ec-97be-d798c0399571.html
+![alt text](../assets/3.png)
