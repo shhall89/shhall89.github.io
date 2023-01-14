@@ -42,4 +42,4 @@ I am a senior at the University of Washington pursuing a degree in Geography wit
 - Participated on the winning team and netted the winning frog (2022)
 
 [Gustine Frog Team](https://www.uniondemocrat.com/news/article_683e0c4e-dc61-11ec-97be-d798c0399571.html)
-![Jumping in the finals 2022](lab1/assets/3.png)
+![Jumping in the finals 2022](lab1/assets/IMG_1177.jpeg)
