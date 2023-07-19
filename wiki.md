@@ -1,28 +1,20 @@
-# Temporary Title
-![](url for an image about your topic)
+Different levels of headers;
+Different font styles
+Several url links;
+One or several images; and
+A list;
 
-A short description / abstract of the topic you choose. For the text here and below, feel free to use **bold** and *italic* fonts, [linked texts](url),  ![images](url), or any other element you think would be helpful for your audience to understand the topic.
 
 
-## Section 1
-One or several paragraphs.
+# Types of Frogs
 
-## Section 2
-One or several paragraphs.
-### (Optional) Subsection 1
-One or several paragraphs.
-### (Optional) Subsection 2
-One or several paragraphs.
+### American Bullfrog (*Lithobates catesbeianus*)
+[Wikipedia: ](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/North-American-bullfrog1.jpg/440px-North-American-bullfrog1.jpg)
 
-## Section 3
-One or several paragraphs for subsection 3.
 
-## See also
-- [Resource 1](url)
-- [Resource 2](url)
-- [Resource 3](url)
+### American Bullfrog (*Agalychnis callidryas*)
+[Wikipedia: ](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Red-eyed_Tree_Frog_%28Agalychnis_callidryas%29_1.png/440px-Red-eyed_Tree_Frog_%28Agalychnis_callidryas%29_1.png)
 
-## References
-1. Reference 1
-2. Reference 2
-3. Reference 3
+
+### Kermit the Frog
+[Wikipedia: ](https://en.wikipedia.org/wiki/Kermit_the_Frog)
