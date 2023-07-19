@@ -5,9 +5,9 @@
 
 **3 Fun Facts**
 
-1. The American bullfrog is the most popular species of frog frog that is jumped in the Calaveras County Fair & Jumping Frog Jubilee
-2. They're named after the sound they make during the breeding season
-3. In some places in the United States, bullfrogs are hunted and consumed (specifically the rear legs)
+1. The American bullfrog is the most popular species of frog frog that is jumped during the Calaveras County Fair & Jumping Frog Jubilee
+2. These frogs are named after the sound they make during the breeding season
+3. In some places in the United States, bullfrogs are hunted and consumed (specifically for their meaty rear legs)
 
 [Source](https://en.wikipedia.org/wiki/American_bullfrog)
 
@@ -17,9 +17,9 @@
 
 **3 Fun Facts**
 
-1. This frog uses its bright red eyes to scare away predators
+1. This frog uses its bright red eyes to scare off would-be predators
 2. It is native to Central and South America
-3. Males attract females by engaging in wrestling competitions with other males
+3. Males will wrestle with other males to attract females
 
 [Source](https://en.wikipedia.org/wiki/Agalychnis_callidryask)
 
@@ -30,7 +30,7 @@
 **3 Fun Facts**
 
 1. *Hyalinobatrachium dianae* is a real frog that is sometimes known as a Kermit frog due to its similar appearance to the Muppet
-2. Kermit was first introduced to the world by Jim Henson in 1955
+2. Kermit was first introduced to the world by Jim Henson in 1955, which makes him 68 years old
 3. Despite being created somewhat recently, the origins of Kermit's name are widely debated
 
 [Source](https://en.wikipedia.org/wiki/Kermit_the_Frog)
