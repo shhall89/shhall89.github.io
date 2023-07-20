@@ -1,5 +1,4 @@
-## **Some Types of Frogs**
----
+## **Let's talk frogs!**
 **Why are frogs important in our ecosystems?**
 
 Frogs play a crucial role in maintaining the health and balance of ecosystems worldwide. As both predator and prey, they form a vital link in the food chain. Frogs consume vast quantities of insects, including pests like mosquitoes, flies, and agricultural pests, helping to regulate their populations naturally. By keeping these populations in check, frogs contribute to the overall stability of ecosystems and reduce the need for harmful pesticides. Moreover, their tadpoles feed on algae and organic matter in aquatic environments, helping to control excessive plant growth and maintaining water quality. Through their feeding habits, frogs contribute to the overall health and balance of their habitats.
