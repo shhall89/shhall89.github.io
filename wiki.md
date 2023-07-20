@@ -12,7 +12,7 @@ In addition to their role as natural pest controllers, frogs also serve as indic
 
 **3 Fun Facts**
 
-1. The American bullfrog is the most popular species of frog frog that is jumped during the Calaveras County Fair & Jumping Frog Jubilee
+1. The American bullfrog is the most popular species of frog that is jumped during the Calaveras County Fair & Jumping Frog Jubilee
 2. These frogs are named after the sound they make during the breeding season
 3. In some places in the United States, bullfrogs are hunted and consumed (specifically for their meaty rear legs)
 
